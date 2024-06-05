@@ -15,9 +15,11 @@ This is a simple blog web application built with Next.js that displays blog post
    ```bash
    git clone https://github.com/your-username/your-repository.git
 2. Install dependencies
-   ```npm install
+   ```bash
+   npm install
 3. Run project
-   ```yarn dev or npm run dev
+   ```bash
+   yarn dev or npm run dev
 
 ## Deployment
 
